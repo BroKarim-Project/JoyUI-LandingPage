@@ -1,8 +1,14 @@
-# React + Vite
+<h1 align="center">JoyUI - Landing page</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Screenshot
+<img width="720" alt="image" src="https://github.com/BroKarim-Project/JoyUI-LandingPage/assets/146515339/9b94258c-197c-4212-a61f-7945fd4da39c">
 
-Currently, two official plugins are available:
+## Development Setup
+Clone the repository and run the following commands:
+```
+npm install
+npm run dev
+```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Made with 💓 By BroKarim
+
